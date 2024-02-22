@@ -10,3 +10,4 @@ Running the code:
 ToDo:
 - change fingers x and y variable names
 - add more comments
+- improve control, especially duriong removing hand from the camera view
